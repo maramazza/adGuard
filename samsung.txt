@@ -1,4 +1,4 @@
-# Samsung
+# Samsung Block List
 127.0.0.1	abtauthprd.samsungcloudsolution.com
 127.0.0.1	acr0.samsungcloudsolution.com
 127.0.0.1	ad.samsungadhub.com
