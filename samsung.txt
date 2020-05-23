@@ -6,7 +6,7 @@
 127.0.0.1	amauthprd.samsungcloudsolution.com
 127.0.0.1	api-hub.samsungyosemite.com
 127.0.0.1	az43064.vo.msecnd.net
-127.0.0.1	cdn.samsungcloudsolution.com
+#127.0.0.1	cdn.samsungcloudsolution.com
 127.0.0.1	cdn.samsungcloudsolution.net
 127.0.0.1	configprd.samsungcloudsolution.net
 127.0.0.1	connecttv.pelmorex.com # weather app tracking
